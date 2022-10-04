@@ -1,0 +1,14 @@
+nav{
+    background: blue;
+}
+h2{
+    background: rgb(150, 150, 214);
+}
+/* selector de clases */
+
+.titulo{
+    text-align: center;
+}
+.titulo-border{
+    border: 3px solid black;
+}
